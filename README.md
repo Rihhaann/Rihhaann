@@ -1,12 +1,64 @@
-- 👋 Hi, I’m @Rihhaann
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning computer science engineering
-- 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me Mohammadhrihan6@gmail.com
-- 😄 Pronouns: none
-- ⚡ Fun fact: Dedicated in solving mathematical equations
+# Hi, I'm Rihaan 👋
 
-<!---
-Rihhaann/Rihhaann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Computer Science (AI) Student  
+🤖 Interested in Artificial Intelligence, Machine Learning & Python Development  
+🚀 Passionate about building practical AI-powered applications
+
+---
+
+## 🔹 About Me
+- Currently pursuing **Computer Science Engineering (Artificial Intelligence)**
+- Hands-on experience with **Python-based AI projects**
+- Interested in **AI applications, automation, and problem-solving**
+- Actively building projects to strengthen real-world skills
+
+---
+
+## 🔹 Technical Skills
+**Languages:**  
+- Python  
+- C++ 
+- Basics of SQL/JAVA  
+
+**AI / ML:**  
+- Machine Learning fundamentals  
+- Image Processing  
+- Deep Learning basics  
+
+**Frameworks & Tools:**  
+- Streamlit  
+- OpenCV  
+- Git & GitHub  
+- VS Code  
+
+---
+
+## 🔹 Projects
+🔹 **AI Coloring Tool**  
+AI-powered web app that converts black & white images into colored images using Python and Streamlit.  
+
+🔹 **Phishing Detector**  
+Machine learning–based system to detect phishing URLs.  
+
+🔹 **Disaster Response System**  
+Project focused on technology-assisted emergency response solutions.
+
+*(More projects available in repositories)*
+
+---
+
+## 🔹 What I'm Looking For
+- Internship opportunities in **AI / ML / Python Development**
+- Collaborative projects related to **Artificial Intelligence**
+- Learning opportunities to grow as an AI engineer
+
+---
+
+## 📫 Contact
+📧 Email: **Mohammadrhian6@gmail.com**  
+💼 GitHub: https://github.com/Rihaann
+
+---
+
+⭐ *Always eager to learn, build, and improve.*
+
