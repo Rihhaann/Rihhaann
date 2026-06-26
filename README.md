@@ -1,69 +1,41 @@
 # Hi, I'm Mohammadh Rihan 👋
 
-🎓 Computer Science (AI) Student  
-🤖 Interested in Artificial Intelligence, Machine Learning & Python Development  
-🚀 Passionate about building practical AI-powered applications
+🎓 Final-year Artificial Intelligence and Machine Learning undergraduate at Yenepoya Institute of Technology
+
+🤖 Interested in Generative AI, Retrieval-Augmented Generation (RAG), and intelligent application development.
 
 ---
 
-## 🔹 About Me
-- Currently pursuing **Computer Science Engineering (Artificial Intelligence)**
-- Hands-on experience with **Python-based AI projects**
-- Interested in **AI applications, automation, and problem-solving**
-- Actively building projects to strengthen real-world skills
+## 🚀 Featured Projects
+
+### 🎨 ColorEase
+
+AI-assisted drawing colorization tool designed to help children and parents complete coloring assignments more efficiently.
+
+### 📅 Deadline Detector
+
+Automated Gmail deadline tracker that extracts assignment due dates and creates Google Calendar reminders using Zapier workflows.
+
+### 🛺 Auto-Rickshaw Earnings Tracker
+
+Multilingual earnings and expense tracking application supporting English, Kannada, Hindi, and Malayalam.
 
 ---
 
-## 🔹 Technical Skills
-**Languages:**  
-- Python  
-- C
-- basics of R,Julia
-- Basics of SQL/JAVA  
+## 🛠️ Currently Exploring
 
-**AI / ML:**  
-- Machine Learning fundamentals  
-- Image Processing  
-- Deep Learning basics  
-
-**Frameworks & Tools:**  
-- Streamlit
-- langchain
-- OpenCV  
-- Git & GitHub  
-- VS Code  
+* LangChain
+* Retrieval-Augmented Generation (RAG)
+* Hugging Face
+* Pinecone / Qdrant
+* Ollama
 
 ---
 
-## 🔹 Projects
-🔹**Deadline Detector**
-Automated Gmail deadline tracker that extracts assignments due dates and creates Google Calender reminders using Zapier
+## 📫 Connect With Me
 
-🔹 **AI Coloring Tool**  
-AI-powered web app that converts black & white images into colored images using Python and Streamlit.  
+📧 **[mohammadhrihan6@gmail.com](mailto:mohammadhrihan6@gmail.com)**
 
-🔹 **Phishing Detector**  
-Machine learning–based system to detect phishing URLs.  
+💼 **linkedin.com/in/mohammadhrihan**
 
-🔹 **Disaster Response System**  
-Project focused on technology-assisted emergency response solutions.
-
-*(More projects available in repositories)*
-
----
-
-## 🔹 What I'm Looking For
-- Internship opportunities in **AI / ML / Python Development**
-- Collaborative projects related to **Artificial Intelligence**
-- Learning opportunities to grow as an AI engineer
-
----
-
-## 📫 Contact
-📧 Email: **Mohammadrhian6@gmail.com**  
-💼 GitHub: https://github.com/Rihaann
-
----
-
-⭐ *Always eager to learn, build, and improve.*
 
