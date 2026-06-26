@@ -36,6 +36,9 @@
 ---
 
 ## 🔹 Projects
+🔹**Deadline Detector**
+Automated Gmail deadline tracker that extracts assignments due dates and creates Google Calender reminders using Zapier
+
 🔹 **AI Coloring Tool**  
 AI-powered web app that converts black & white images into colored images using Python and Streamlit.  
 
