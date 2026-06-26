@@ -1,4 +1,4 @@
-# Hi, I'm Rihaan 👋
+# Hi, I'm Mohammadh Rihan 👋
 
 🎓 Computer Science (AI) Student  
 🤖 Interested in Artificial Intelligence, Machine Learning & Python Development  
