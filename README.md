@@ -17,7 +17,8 @@
 ## 🔹 Technical Skills
 **Languages:**  
 - Python  
-- C++ 
+- C
+- basics of R,Julia
 - Basics of SQL/JAVA  
 
 **AI / ML:**  
@@ -26,7 +27,8 @@
 - Deep Learning basics  
 
 **Frameworks & Tools:**  
-- Streamlit  
+- Streamlit
+- langchain
 - OpenCV  
 - Git & GitHub  
 - VS Code  
